@@ -1,0 +1,86 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "The Gathering",
+      "members": [
+        {
+          "id": 1,
+          "name": "Sean"
+        },
+        {
+          "id": 2,
+          "name": "dalver"
+        },
+        {
+          "id": 3,
+          "name": "ririro"
+        }
+      ],
+      "time": "2023-09-05T13:20:50.226Z"
+    },
+    {
+      "id": 2,
+      "name": "Another Game",
+      "members": [
+        {
+          "id": 2,
+          "name": "dalver"
+        },
+        {
+          "id": 3,
+          "name": "ririro"
+        }
+      ],
+      "time": "2023-09-06T03:10:12.226Z"
+    },
+    {
+      "id": 3,
+      "name": "Great Event!",
+      "members": [
+        {
+          "id": 1,
+          "name": "Sean"
+        },
+        {
+          "id": 2,
+          "name": "dalver"
+        },
+        {
+          "id": 3,
+          "name": "ririro"
+        }
+      ],
+      "time": "2023-09-05T13:20:50.226Z"
+    },
+    {
+      "id": 4,
+      "name": "Mileage Run",
+      "members": [
+        {
+          "id": 2,
+          "name": "dalver"
+        },
+        {
+          "id": 3,
+          "name": "ririro"
+        }
+      ],
+      "time": "2023-09-06T03:10:12.226Z"
+    }
+  ],
+  "members": [
+    {
+      "id": 1,
+      "name": "Sean"
+    },
+    {
+      "id": 2,
+      "name": "dalver"
+    },
+    {
+      "id": 3,
+      "name": "ririro"
+    }
+  ]
+}
